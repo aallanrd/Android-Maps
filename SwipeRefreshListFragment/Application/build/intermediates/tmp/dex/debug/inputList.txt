@@ -1,0 +1,6 @@
+C:\Users\Allan\Documents\GitHub\BussTest\SwipeRefreshListFragment\Application\build\intermediates\classes\debug
+C:\Users\Allan\Documents\GitHub\BussTest\SwipeRefreshListFragment\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-cdb92aa8da08c52c91688155b27423a2cfa2d7c9.jar
+C:\Users\Allan\Documents\GitHub\BussTest\SwipeRefreshListFragment\Application\build\intermediates\pre-dexed\debug\classes-23f3506ed33fe215abb544b0522a763907bd389d.jar
+C:\Users\Allan\Documents\GitHub\BussTest\SwipeRefreshListFragment\Application\build\intermediates\pre-dexed\debug\classes-b1e53cb5a4f52c101957a5cb929d5f5971033362.jar
+C:\Users\Allan\Documents\GitHub\BussTest\SwipeRefreshListFragment\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-82a4cb92f5bde3670a574fb60e5a6adb45f2484d.jar
+C:\Users\Allan\Documents\GitHub\BussTest\SwipeRefreshListFragment\Application\build\intermediates\pre-dexed\debug\classes-6526df015e79cbb5e4c58d4960156f0b99c557fd.jar
